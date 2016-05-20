@@ -7230,7 +7230,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Haute-Sa\u00f4ne",
+			"name": "Haute-Saone",
 			"parent_id": 3792878,
 			"is_simplified": true,
 			"osm_id": 7423,
@@ -8819,7 +8819,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Ni\u00e8vre",
+			"name": "Nievre",
 			"parent_id": 3792878,
 			"is_simplified": true,
 			"osm_id": 7448,
@@ -11455,7 +11455,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "H\u00e9rault",
+			"name": "Herault",
 			"parent_id": 3792883,
 			"is_simplified": true,
 			"osm_id": 7429,
@@ -13339,7 +13339,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Corr\u00e8ze",
+			"name": "Correze",
 			"parent_id": 3792880,
 			"is_simplified": true,
 			"osm_id": 7464,
@@ -24233,7 +24233,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Loz\u00e8re",
+			"name": "Lozere",
 			"parent_id": 3792883,
 			"is_simplified": true,
 			"osm_id": 7421,
@@ -50037,7 +50037,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "C\u00f4tes-d'Armor",
+			"name": "Cotes-d'Armor",
 			"parent_id": 102740,
 			"is_simplified": true,
 			"osm_id": 7398,
@@ -57355,7 +57355,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Puy-de-D\u00f4me",
+			"name": "Puy-de-Dome",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 7406,
@@ -57683,7 +57683,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "M\u00e9tropole de Lyon",
+			"name": "Metropole de Lyon",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 4850450,
@@ -58363,7 +58363,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Rh\u00f4ne",
+			"name": "Rhone",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 7378,
@@ -60289,7 +60289,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Rh\u00f4ne",
+			"name": "Rhone",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 4850451,
@@ -65305,7 +65305,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Pyr\u00e9n\u00e9es-Atlantiques",
+			"name": "Pyrenees-Atlantiques",
 			"parent_id": 3792880,
 			"is_simplified": true,
 			"osm_id": 7450,
@@ -66157,7 +66157,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Hautes-Pyr\u00e9n\u00e9es",
+			"name": "Hautes-Pyrenees",
 			"parent_id": 3792883,
 			"is_simplified": true,
 			"osm_id": 7467,
@@ -67597,7 +67597,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Is\u00e8re",
+			"name": "Isere",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 7437,
@@ -68486,7 +68486,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Dr\u00f4me",
+			"name": "Drome",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 7434,
@@ -69835,7 +69835,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Sa\u00f4ne-et-Loire",
+			"name": "Saone-et-Loire",
 			"parent_id": 3792878,
 			"is_simplified": true,
 			"osm_id": 7397,
@@ -79573,7 +79573,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Bouches-du-Rh\u00f4ne",
+			"name": "Bouches-du-Rhone",
 			"parent_id": 8654,
 			"is_simplified": true,
 			"osm_id": 7393,
@@ -80152,7 +80152,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Pyr\u00e9n\u00e9es-Orientales",
+			"name": "Pyrenees-Orientales",
 			"parent_id": 3792883,
 			"is_simplified": true,
 			"osm_id": 7466,
@@ -82829,7 +82829,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Vend\u00e9e",
+			"name": "Vendee",
 			"parent_id": 8650,
 			"is_simplified": true,
 			"osm_id": 7402,
@@ -87479,7 +87479,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Ard\u00e8che",
+			"name": "Ardeche",
 			"parent_id": 3792877,
 			"is_simplified": true,
 			"osm_id": 7430,
@@ -89553,7 +89553,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Deux-S\u00e8vres",
+			"name": "Deux-Sevres",
 			"parent_id": 3792880,
 			"is_simplified": true,
 			"osm_id": 7455,
@@ -92448,11 +92448,11 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "La R\u00e9union",
+			"name": "La Reunion",
 			"parent_id": 2470060,
 			"is_simplified": true,
 			"osm_id": 77601,
-			"name_en": "R\u00e9union",
+			"name_en": "Reunion",
 			"iso3166": null
 		}
 	}, {
@@ -101566,7 +101566,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Finist\u00e8re",
+			"name": "Finistere",
 			"parent_id": 102740,
 			"is_simplified": true,
 			"osm_id": 102430,
@@ -102367,7 +102367,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "Ari\u00e8ge",
+			"name": "Ariege",
 			"parent_id": 3792883,
 			"is_simplified": true,
 			"osm_id": 7439,
@@ -109967,7 +109967,7 @@
 		"properties": {
 			"admin_level": 2,
 			"is_in_country": 2202162,
-			"name": "C\u00f4te-d'Or",
+			"name": "Cote-d'Or",
 			"parent_id": 3792878,
 			"is_simplified": true,
 			"osm_id": 7424,
