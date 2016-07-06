@@ -11,7 +11,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908765",
-			"name": "Ang Thong Province",
+			"name": "อ่างทอง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -47,7 +47,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908766",
-			"name": "Buri Ram Province",
+			"name": "บุรีรัมย์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -179,7 +179,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908767",
-			"name": "Chachoengsao Province",
+			"name": "ฉะเชิงเทรา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -470,7 +470,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908768",
-			"name": "Chai Nat Province",
+			"name": "ชัยนาท",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -520,7 +520,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908769",
-			"name": "Chaiyaphum Province",
+			"name": "ชัยภูมิ",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -613,7 +613,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908770",
-			"name": "Chanthaburi Province",
+			"name": "จันทบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -706,7 +706,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908771",
-			"name": "Chiang Mai Province",
+			"name": "เชียงราย",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -890,7 +890,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908772",
-			"name": "Chiang Rai Province",
+			"name": "เชียงใหม่",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -999,7 +999,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908773",
-			"name": "Chon Buri Province",
+			"name": "ชลบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -1354,7 +1354,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908774",
-			"name": "Chumphon Province",
+			"name": "ชุมพร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -1490,7 +1490,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908775",
-			"name": "Kalasin",
+			"name": "กาฬสินธุ์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -1577,7 +1577,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908776",
-			"name": "Kamphaeng Phet Province",
+			"name": "กำแพงเพชร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -1647,7 +1647,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908777",
-			"name": "Kanchanaburi Province",
+			"name": "กาญจนบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -1766,7 +1766,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908778",
-			"name": "Khon Kaen Province",
+			"name": "ขอนแก่น",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -1882,7 +1882,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908779",
-			"name": "Krabi Province",
+			"name": "กระบี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2085,7 +2085,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908781",
-			"name": "Lampang Province",
+			"name": "ลำปาง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2207,7 +2207,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908782",
-			"name": "Lamphun Province",
+			"name": "ลำพูน",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2278,7 +2278,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908783",
-			"name": "Loei Province",
+			"name": "เลย",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2395,7 +2395,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908784",
-			"name": "Lopburi Province",
+			"name": "ลพบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2452,7 +2452,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908785",
-			"name": "Mae Hong Son Province",
+			"name": "แม่ฮ่องสอน",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2603,7 +2603,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908786",
-			"name": "Maha Sarakham Province",
+			"name": "มหาสารคาม",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2675,7 +2675,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908787",
-			"name": "Nakhon Nayok Province",
+			"name": "นครนายก",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2730,7 +2730,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908788",
-			"name": "Nakhon Pathom Province",
+			"name": "นครปฐม",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2785,7 +2785,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908789",
-			"name": "Nakhon Phanom Province",
+			"name": "นครพนม",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2850,7 +2850,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908790",
-			"name": "Nakhon Ratchasima Province",
+			"name": "นครราชสีมา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -2986,7 +2986,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908791",
-			"name": "Nakhon Sawan Province",
+			"name": "นครสวรรค์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3079,7 +3079,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908792",
-			"name": "Nakhon Si Thammarat Province",
+			"name": "นครศรีธรรมราช",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3171,7 +3171,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908793",
-			"name": "Nan Province",
+			"name": "น่าน",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3271,7 +3271,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908794",
-			"name": "Narathiwat Province",
+			"name": "นราธิวาส",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3328,7 +3328,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908795",
-			"name": "Nong Khai Province",
+			"name": "หนองคาย",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3409,7 +3409,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908796",
-			"name": "Nonthaburi Province",
+			"name": "นนทบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3454,7 +3454,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908797",
-			"name": "Pathum Thani Province",
+			"name": "ปทุมธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3502,7 +3502,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908798",
-			"name": "Pattani Province",
+			"name": "ปัตตานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3550,7 +3550,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908799",
-			"name": "Phangnga Province",
+			"name": "พังงา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3758,7 +3758,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908800",
-			"name": "Phatthalung Province",
+			"name": "พัทลุง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3806,7 +3806,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908801",
-			"name": "Phayao Province",
+			"name": "พะเยา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3875,7 +3875,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908802",
-			"name": "Phetchabun Province",
+			"name": "เพชรบูรณ์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -3974,7 +3974,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908803",
-			"name": "Phetchaburi Province",
+			"name": "เพชรบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4193,7 +4193,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908804",
-			"name": "Phichit Province",
+			"name": "พิจิตร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4242,7 +4242,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908805",
-			"name": "Phitsanulok Province",
+			"name": "พิษณุโลก",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4337,7 +4337,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908806",
-			"name": "Phra Nakhon Si Ayutthaya Province",
+			"name": "พระนครศรีอยุธยา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4387,7 +4387,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908807",
-			"name": "Phrae Province",
+			"name": "แพร่",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4467,7 +4467,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908808",
-			"name": "Prachin Buri Province",
+			"name": "ปราจีนบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4535,7 +4535,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908809",
-			"name": "Prachuap Khiri Khan Province",
+			"name": "ประจวบคีรีขันธ์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4630,7 +4630,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908810",
-			"name": "Ranong Province",
+			"name": "ระนอง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4793,7 +4793,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908811",
-			"name": "Ratchaburi Province",
+			"name": "ราชบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4859,7 +4859,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908812",
-			"name": "Rayong Province",
+			"name": "ระยอง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -4930,7 +4930,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908813",
-			"name": "Roi Et Province",
+			"name": "ร้อยเอ็ด",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5015,7 +5015,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908814",
-			"name": "Sakon Nakhon Province",
+			"name": "สกลนคร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5129,7 +5129,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908815",
-			"name": "Samut Prakan Province",
+			"name": "สมุทรปราการ",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5280,7 +5280,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908816",
-			"name": "Samut Sakhon Province",
+			"name": "สมุทรสาคร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5395,7 +5395,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908817",
-			"name": "Samut Songkhram Province",
+			"name": "สมุทรสงคราม",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5486,7 +5486,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908818",
-			"name": "Saraburi Province",
+			"name": "สระบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5553,7 +5553,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908819",
-			"name": "Satun Province",
+			"name": "สตูล",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5758,7 +5758,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908820",
-			"name": "Sing Buri Province",
+			"name": "สิงห์บุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5803,7 +5803,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908821",
-			"name": "Si Sa Ket Province",
+			"name": "ศรีสะเกษ",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5898,7 +5898,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908822",
-			"name": "Songkhla Province",
+			"name": "สงขลา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -5984,7 +5984,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908823",
-			"name": "Sukhothai Province",
+			"name": "สุโขทัย",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -6062,7 +6062,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908824",
-			"name": "Suphan Buri Province",
+			"name": "สุพรรณบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -6140,7 +6140,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908825",
-			"name": "Surat Thani Province",
+			"name": "สุราษฎร์ธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -6380,7 +6380,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908826",
-			"name": "Surin Province",
+			"name": "สุรินทร์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -6502,7 +6502,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908827",
-			"name": "Tak Province",
+			"name": "ตาก",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -6705,7 +6705,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908828",
-			"name": "Trang Province",
+			"name": "ตรัง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -6847,7 +6847,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908829",
-			"name": "Trat Province",
+			"name": "ตราด",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7014,7 +7014,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908830",
-			"name": "Ubon Ratchathani Province",
+			"name": "อุบลราชธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7142,7 +7142,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908831",
-			"name": "Udon Thani Proivnce",
+			"name": "อุดรธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7264,7 +7264,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908832",
-			"name": "Uttaradit Province",
+			"name": "อุตรดิตถ์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7349,7 +7349,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908872",
-			"name": "Yala Province",
+			"name": "ยะลา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7421,7 +7421,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1908873",
-			"name": "Yasothon Province",
+			"name": "ยโสธร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7497,7 +7497,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R1925819",
-			"name": "Nong Bua Lam Phu Province",
+			"name": "หนองบัวลำภู",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7567,7 +7567,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R2746948",
-			"name": "Amnat Charoen Province",
+			"name": "อำนาจเจริญ",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7615,7 +7615,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R2934602",
-			"name": "Bueng Kan Province",
+			"name": "บึงกาฬ",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7689,7 +7689,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R2934603",
-			"name": "Mukdahan Province",
+			"name": "มุกดาหาร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7737,7 +7737,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R2934604",
-			"name": "Phuket Province",
+			"name": "ภูเก็ต",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7831,7 +7831,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R2934605",
-			"name": "Sa Kaeo Province",
+			"name": "สระแก้ว",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7911,7 +7911,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R2934606",
-			"name": "Uthai Thani Province",
+			"name": "อุทัยธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -7994,7 +7994,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R92277",
-			"name": "Bangkok",
+			"name": "กรุงเทพมหานคร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8229,7 +8229,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141064639",
-			"name": "Chon Buri",
+			"name": "ชลบุรี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8248,7 +8248,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141064651",
-			"name": "Chumphon",
+			"name": "ชุมพร",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8422,7 +8422,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065478",
-			"name": "Narathiwat",
+			"name": "นราธิวาส",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8441,7 +8441,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065496",
-			"name": "Phangnga",
+			"name": "พังงา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8450,7 +8450,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065501",
-			"name": "Phangnga",
+			"name": "พังงา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8469,7 +8469,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065503",
-			"name": "Phangnga",
+			"name": "พังงา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8478,7 +8478,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065520",
-			"name": "Phangnga",
+			"name": "พังงา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8497,7 +8497,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065539",
-			"name": "Phangnga",
+			"name": "พังงา",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8506,7 +8506,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065567",
-			"name": "Prachuap Khiri Khan",
+			"name": "ประจวบคีรีขันธ์",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8525,7 +8525,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065587",
-			"name": "Ranong",
+			"name": "ระนอง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8534,7 +8534,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065603",
-			"name": "Ranong",
+			"name": "ระนอง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8543,7 +8543,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065605",
-			"name": "Ranong",
+			"name": "ระนอง",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8552,7 +8552,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065693",
-			"name": "Surat Thani",
+			"name": "สุราษฎร์ธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8561,7 +8561,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W141065759",
-			"name": "Trat",
+			"name": "ตราด",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8581,7 +8581,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W237471857",
-			"name": "Surat Thani",
+			"name": "สุราษฎร์ธานี",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8599,7 +8599,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W239034920",
-			"name": "Phuket",
+			"name": "ภูเก็ต",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
@@ -8608,7 +8608,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "W239034921",
-			"name": "Phuket",
+			"name": "ภูเก็ต",
 			"is_in_country": "R2067731",
 			"is_in_state": "None"
 		},
