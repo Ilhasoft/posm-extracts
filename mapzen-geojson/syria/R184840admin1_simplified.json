@@ -11,7 +11,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184856",
-			"name": "Al-Hasakah",
+			"name": "الحسكة",
 			"name_en": "Al-Hasakah",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -84,7 +84,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184867",
-			"name": "Deir ez-Zor",
+			"name": "دير الزور",
 			"name_en": "Deir ez-Zor",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -121,7 +121,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184877",
-			"name": "Homs",
+			"name": "حمص",
 			"name_en": "Homs",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -229,7 +229,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184878",
-			"name": "Ar-Raqqah",
+			"name": "الرقة",
 			"name_en": "Ar-Raqqah",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -280,7 +280,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184879",
-			"name": "Aleppo",
+			"name": "حلب",
 			"name_en": "Aleppo",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -378,7 +378,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184880",
-			"name": "Hama",
+			"name": "حماة",
 			"name_en": "Hama",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -484,7 +484,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184881",
-			"name": "Idlib",
+			"name": "إدلب",
 			"name_en": "Idlib",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -575,7 +575,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184882",
-			"name": "Tartus",
+			"name": "طرطوس",
 			"name_en": "Tartus",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -625,7 +625,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184883",
-			"name": "Latakia",
+			"name": "اللاذقية",
 			"name_en": "Latakia",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -679,7 +679,7 @@
 		"type": "Feature",
 		"properties": {
 			"osm_id": "R184884",
-			"name": "Rif Dimashq",
+			"name": "ريف دمشق",
 			"name_en": "Rif Dimashq",
 			"is_in_country": "R184840",
 			"is_in_state": "None"
@@ -1487,7 +1487,7 @@
 	"type": "Feature",
 	"properties": {
 		"osm_id": "R184885",
-		"name": "Quneitra",
+		"name": "القنيطرة",
 		"name_en": "Quneitra",
 		"is_in_country": "R184840",
 		"is_in_state": "None"
@@ -1528,7 +1528,7 @@
 	"type": "Feature",
 	"properties": {
 		"osm_id": "R184886",
-		"name": "Daraa",
+		"name": "درعا",
 		"name_en": "Daraa",
 		"is_in_country": "R184840",
 		"is_in_state": "None"
@@ -1603,7 +1603,7 @@
 	"type": "Feature",
 	"properties": {
 		"osm_id": "R184887",
-		"name": "As-Suwayda",
+		"name": "السويداء",
 		"name_en": "As-Suwayda",
 		"is_in_country": "R184840",
 		"is_in_state": "None"
@@ -1716,7 +1716,7 @@
 	"type": "Feature",
 	"properties": {
 		"osm_id": "R1379176",
-		"name": "Golan Heights",
+		"name": "الجولان",
 		"name_en": "Golan Heights",
 		"is_in_country": "R184840",
 		"is_in_state": "None"
@@ -1788,7 +1788,7 @@
 	"type": "Feature",
 	"properties": {
 		"osm_id": "R1091272140",
-		"name": "Damascus",
+		"name": "دمشق",
 		"name_en": "Damascus",
 		"is_in_country": "R184840",
 		"is_in_state": "None"
