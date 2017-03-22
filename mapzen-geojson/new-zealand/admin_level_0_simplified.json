@@ -13,6 +13,7 @@
     "type": "Feature",
     "name": "New Zealand",
     "properties": {
+      "osm_id": "R556706",
       "flag": "http://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
       "name": "New Zealand",
       "name:af": "Nieu-Seeland",
